@@ -14,6 +14,8 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia. 
   <img align = "center" alt = "Victor-CSS" heigh = "30" width = "40" src = https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg>
   <img align = "center" alt = "Victor-HTML" heigh = "30" width = "40" src = https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg>
   <img align = "center" alt = "Victor-HTML" heigh = "30" width = "40" src = https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg>
+  <img align = "cennter" alt = "Victor-C" heigh = "30" width = "40" src = "https://github.com/user-attachments/assets/feb8e2d6-cabb-4a59-a566-f741b1c64f2e"/>
+
 </div>
 
 # Contatos
